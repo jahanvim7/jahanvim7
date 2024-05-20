@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jahanvim7
 - 👀 I’m interested in coding and hacking
-- 🌱 I’m currently learning java
+  
 
 
 <!---
